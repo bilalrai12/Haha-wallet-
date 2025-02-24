@@ -22,10 +22,10 @@ HAHA Wallet BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/hahawallet.git
+   git clone https://github.com/bilalrai12/Haha-wallet-.git
    ```
    ```bash
-   cd hahawallet
+   cd Haha-wallet-
    ```
 
 2. **Install Requirements:**
